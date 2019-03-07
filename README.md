@@ -5,4 +5,4 @@ Tènciques de producció i edició
 ## Pràctica 2 - 3d
 [3d](nomtreball.extensió)
 ## Pràtcia 3 - Tòtem
-[Totem](bàrbara_martí_totem.zip)
+[Totem](bàrbara_martí_totem.zip)
