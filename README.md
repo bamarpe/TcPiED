@@ -4,5 +4,7 @@ Tènciques de producció i edició
 [Bodegó](bàrbara_martí_formes.zip)
 ## Pràctica 2 - 3d
 [3d](bàrbara_martí_3D.zip)
-## Pràtcia 3 - Tòtem
+## Pràctica 3 - Tòtem
 [Totem](bàrbara_martí_suetin.zip)
+## Pràctica 4 - Isidro Ferrer
+[Funny Farm] ()
