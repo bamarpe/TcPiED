@@ -7,4 +7,4 @@ Tènciques de producció i edició
 ## Pràctica 3 - Tòtem
 [Totem](bàrbara_martí_suetin.zip)
 ## Pràctica 4 - Isidro Ferrer
-[Funny Farm] ()
+[FunnyFarm] (excercici.extensio)
