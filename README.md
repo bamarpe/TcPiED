@@ -9,4 +9,4 @@ Tènciques de producció i edició
 ## Pràctica 4 - Isidro Ferrer
 [Funny Farm](bàrbara_martí_suetin.extensio)
 ## Treball final
-[Treball final](treball_final_bàrbara.zip)
+[Treball final]https://drive.google.com/file/d/1-tkrmKNAQGCB1FCSV2zV80YjhY4khhd1/view?usp=sharing
