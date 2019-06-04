@@ -8,3 +8,5 @@ Tènciques de producció i edició
 [Totem](bàrbara_martí_suetin.zip)
 ## Pràctica 4 - Isidro Ferrer
 [Funny Farm](bàrbara_martí_suetin.extensio)
+## Treball final
+[Treball final](treball_final_bàrbara.zip)
